@@ -52,14 +52,18 @@ $ npm run build
 $ npm run start:prod
 ```
 
+## Types and schema generation
+
+```bash
+# Generate
+$ npm run prisma:generate
+```
+
 ## Test
 
 ```bash
 # Unit tests
 $ npm run test
-
-# e2e tests
-$ npm run test:e2e
 
 # Test coverage
 $ npm run test:cov
